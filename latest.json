@@ -1,0 +1,31 @@
+{
+  "version": "0.3.0",
+  "notes": "Release v0.3.0",
+  "pub_date": "2026-10-12T09:56:59.972Z",
+  "platforms": {
+    "linux-x86_64-appimage": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcDFXa0VDL045RHdBVXBBZ0xMQWJ3UDlTWEtUWFgzam5sOXFuYk02SFJXOGRWclBDeERFTmhKMUhxM1FqMnVJZXpVeHlLYkpHZmpBaWNXMkI3WFVYVkxGSTJ5ZitGNEFjPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk3NDc5CWZpbGU6UXVpY2sgQ2FwdHVyZV8wLjMuMF9hbWQ2NC5BcHBJbWFnZQl2ZXJzaW9uOjAuMy4wCjZqakFjdkFyanNBMmJTUzlqMklWS1hWcU1yVjA0dXBhUkVnbHJlYUoyaC82eUE0cWQ2eGx0cU5mRWRTRE9IOSt2WGtZR0k2cGszcllhT0FLaFJnOERBPT0K",
+      "url": "https://raw.githubusercontent.com/n-leezy/quick-capture-releases/latest/Quick.Capture_0.3.0_amd64.AppImage"
+    },
+    "linux-x86_64-deb": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcDFXa0VDL045RDZUN2NPZHhyRlRubmFEb0VONWs0WW56THFWWTYwM2dYamE1YStnQzJTRTYwb3FNOWN2Q3M5R0dnaW1oVExmNll2U2RNUXRadnRmSSs3SE01RVFxZ0FJPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk3NDc5CWZpbGU6UXVpY2sgQ2FwdHVyZV8wLjMuMF9hbWQ2NC5kZWIJdmVyc2lvbjowLjMuMApFWkF6NTBxSHoxbU1TcTRSbkQ4L0NQSitnbWV5am1nSTJJdk5JUzBDN1ZCK3dJVCtYU2kwSGdjQjNHU2VhbFdoSTBsNnV1V1B5THptNU5VV0xLMDBEdz09Cg==",
+      "url": "https://raw.githubusercontent.com/n-leezy/quick-capture-releases/latest/Quick.Capture_0.3.0_amd64.deb"
+    },
+    "darwin-aarch64-app": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcDFXa0VDL045RCtjVWJNMjVFNURBNkdIaE9VUzF1SDRIcmN5bXVXZXFDdHlRelUzaXJIT292WGpVYkRxQ3VIeW9naVRBS3VsSjFEaDNGMTFuNnVEZi9nSTE3ZGZ5cXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk4OTEyCWZpbGU6UXVpY2sgQ2FwdHVyZV8wLjMuMF9hYXJjaDY0LmFwcC50YXIuZ3oKZlF6UjRvRmJjaXNxTnN6bFVWNDdPaTA3MWkwTkhseEFUSWRIa080MTArdWhRRnp4QUlvNjJ2QlZJT0NkQTFVSUwvQ2NvODFSbHNqbFQ3eDR1MGVlQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/n-leezy/quick-capture-releases/latest/Quick.Capture_0.3.0_aarch64.app.tar.gz"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcDFXa0VDL045RDRENU5BQzh0bGpCVEhMZXhDaHNnSzg4RStwRjVqRzdFVkhDSm1hdGZUT3pQTUt6Ym0yZUtSREcxRFh4bk42Z2o4dXUxNWVZdVlQMHpBanRoOW9FOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk4Mzk1CWZpbGU6UXVpY2sgQ2FwdHVyZV8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKL2ZKRlA1UXdQUTYrSGpVVjhEZ20vb09aWDRSaUdwczdqeFUveFQ4MjZiWW1aTVY3aGl6UnlpNmxUcmtTamszeDJ2eFIrRVdXczJMb3JUM2ZzVVBQQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/n-leezy/quick-capture-releases/latest/Quick.Capture_0.3.0_x64-setup.exe"
+    },
+    "darwin-aarch64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcDFXa0VDL045RCtjVWJNMjVFNURBNkdIaE9VUzF1SDRIcmN5bXVXZXFDdHlRelUzaXJIT292WGpVYkRxQ3VIeW9naVRBS3VsSjFEaDNGMTFuNnVEZi9nSTE3ZGZ5cXdVPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk4OTEyCWZpbGU6UXVpY2sgQ2FwdHVyZV8wLjMuMF9hYXJjaDY0LmFwcC50YXIuZ3oKZlF6UjRvRmJjaXNxTnN6bFVWNDdPaTA3MWkwTkhseEFUSWRIa080MTArdWhRRnp4QUlvNjJ2QlZJT0NkQTFVSUwvQ2NvODFSbHNqbFQ3eDR1MGVlQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/n-leezy/quick-capture-releases/latest/Quick.Capture_0.3.0_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcDFXa0VDL045RDRENU5BQzh0bGpCVEhMZXhDaHNnSzg4RStwRjVqRzdFVkhDSm1hdGZUT3pQTUt6Ym0yZUtSREcxRFh4bk42Z2o4dXUxNWVZdVlQMHpBanRoOW9FOVFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNzk4Mzk1CWZpbGU6UXVpY2sgQ2FwdHVyZV8wLjMuMF94NjQtc2V0dXAuZXhlCXZlcnNpb246MC4zLjAKL2ZKRlA1UXdQUTYrSGpVVjhEZ20vb09aWDRSaUdwczdqeFUveFQ4MjZiWW1aTVY3aGl6UnlpNmxUcmtTamszeDJ2eFIrRVdXczJMb3JUM2ZzVVBQQ1E9PQo=",
+      "url": "https://raw.githubusercontent.com/n-leezy/quick-capture-releases/latest/Quick.Capture_0.3.0_x64-setup.exe"
+    }
+  }
+}
